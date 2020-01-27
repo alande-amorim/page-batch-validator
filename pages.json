@@ -1,0 +1,9 @@
+[
+    {
+        "url": "http://example.com/", 
+        "expected": {
+            "rule": "/<title[^>]*>([^<]*)<\\/title>/",
+            "value": "Example Domain"
+        }
+    }
+]
